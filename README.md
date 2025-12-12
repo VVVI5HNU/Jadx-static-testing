@@ -1,1 +1,1 @@
-# Jadx-static-testing-
+# Jadx-static-testing
